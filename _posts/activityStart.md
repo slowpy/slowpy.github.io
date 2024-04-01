@@ -30,13 +30,7 @@ tags:
 	git push -u origin master
 
 
-# 常用操作
 
-#### 环境配置
-	套件下载地址
-	https://docs.partner.android.com/tv/test/tvts/run?hl=zh-cn#install
-	dev套件下载地址
-	https://ci.android.com/builds/branches/git_master-tv-dev/grid?legacy=1
 	
 
 	
