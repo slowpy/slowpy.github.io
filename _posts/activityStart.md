@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      Git指令整理
-subtitle:   不适合阅读的整理的一些个人常用的 Git 指令
-date:       2024-04-15
+title:      android activity 
+subtitle:   activity
+date:       2024-04-16
 author:     slowpy
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Mac
-    - 终端
-    - Git
+    - activity
+    - frameworks
+    - android
 ---
 
 >随便整理的一些自用的Git指令
